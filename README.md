@@ -33,7 +33,7 @@ network-manager
 Run as root (sudo su):
 
 ```bash
-curl -sL https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh | bash -s
+curl -sL https://raw.githubusercontent.com/hugozheng2017/supervised-installer/master/installer.sh | bash -s
 ```
 
 ### Command line arguments
